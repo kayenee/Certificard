@@ -76,7 +76,7 @@ body {
   font-size: 22px;
   line-height: 46px;
 }
-.links {
+.links a {
   color: #2ec7a1;
   text-decoration: none;
 }
@@ -99,7 +99,7 @@ body {
   background: #6a5acd;
 }
 
-.dark .links {
+.dark .links a {
   color: #ffee82;
   text-decoration: none;
 }
